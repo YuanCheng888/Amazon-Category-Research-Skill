@@ -1,0 +1,51 @@
+# ClawHub
+.clawhub/
+.clawhub-config.json
+references/demand.md
+tmp/
+*.raw.json
+generated.js
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+.tox/
+.eggs/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+logs/
+
+# Build
+dist/
+build/
+*.spec
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Node.js
+node_modules/
+package-lock.json
+yarn.lock
