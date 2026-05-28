@@ -9,7 +9,7 @@ description: |
   新品, 新品调研, 跟卖, 品牌分析, brand analysis, 店铺分析, store analysis, 数据采集, 数据抓取, data scraping,
    listing分析, listing优化, 产品详情, 产品信息采集, 月销量, monthly sales, 上架时间, listing date, FBA费用, FBA fee,
    review分析, review analysis, 评论分析, 评分分析, 站外流量, off-site traffic, 视觉文案, 产品主图, A+页面, A+ content
-version: 5.0.0
+version: 5.0.1
 tags: [亚马逊, 类目调研, ASIN分析, 竞品分析, 市场调研, 选品分析, 亚马逊运营, amazon, category research, competitor analysis, seller research, product research, ASIN analysis, market intelligence, FBA, 卖家精灵, sellersprite, SIF]
 category: Data & APIs
 requires_browser: true
